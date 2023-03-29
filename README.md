@@ -8,7 +8,7 @@ Nessa página usei HTML, CSS e JavaScript
 ##Visualize um print do Formulário aqui
 </br>
 
-<h3>##Visualize um print do Formulário aqui </h3>
+<h3>##Visualize um print da tela aqui </h3>
 </br>
 
 
